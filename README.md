@@ -31,4 +31,4 @@ Aplicación de escritorio desarrollada en **C# con WPF** que permite generar con
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/EdgarVerdeza/GeneradorContrasenaWPF.git
+   git clone https://github.com/EdgarVerdeza/GeneradorDeClavesSeguras.git
